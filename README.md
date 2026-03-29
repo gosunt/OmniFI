@@ -123,7 +123,7 @@ Client Monitoring → Detection Engine → Telemetry → Trust Engine → Policy
 ## Project Structure (Actual)
 
 ```text
-OmniFi_v2/
+OmniFi_v1/
 │
 ├── core/              # Core engines (NAC, trust, policy, telemetry)
 ├── client_mode/       # Attack detection modules
